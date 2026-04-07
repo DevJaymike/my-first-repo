@@ -1,10 +1,14 @@
 Day 15: Learning Github
-<<<<<<< HEAD
+HEAD
 day 15: Practicing real workflow
-=======
+
 day 15: Practicibg real workflow
 Day 16: This is from feature1 branch
 >>>>>>> feature1
 This is content from main
 This is content from feature1 branch
+HEAD
 This line is from branch
+
+This line is from refresh-practice branch
+refresh-practice
